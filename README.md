@@ -1,6 +1,6 @@
 # ShiftGuard10
 
-Submission for EE708 Project — 10-class robust image classification on 32×32 RGB images.
+Submission for CS771 Project — 10-class robust image classification on 32×32 RGB images.
 
 **Goal**: Maximize **Macro F1** across 10 classes under extreme class imbalance and distribution shift (train ≠ test).
 
